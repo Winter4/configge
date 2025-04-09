@@ -11,5 +11,8 @@
     "typescript"
   ],
   "author": "winter4",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
